@@ -1,0 +1,140 @@
+*{
+   margin: 0;
+   padding: 0;
+ }
+
+ html
+ {
+   height:100%;
+ }
+
+ body
+ {
+   height: 100%; 
+ }
+ 
+ #Main_container
+  {
+    min-height: 100%;
+	padding-bottom: 100px;
+  }
+  
+ .navigation-bar
+    {	 
+	  width: 100%;
+	  height: 110px;
+	  background: #19194d;
+    }
+ #logo
+    {
+	 width: 72px;
+	 margin-top: 5px;
+     margin-left: 40px;   
+    }
+
+ #hh
+	{
+	 font-family:Roman;
+	 margin-left: 120px;
+	 margin-top: -80px;
+	 color:white;
+	}
+	  
+ #hh1
+	{
+	 font-family:Comic Sans MS;
+	 margin-left: 120px;
+	 margin-top: -25px;
+	 color:white;
+	}
+	
+ #hh2
+	{
+	 font-size:17px;
+	 font-family:Brush Script MT;
+	 margin-left: 120px;
+	 margin-top: -5px;
+	 color:white;
+	}
+	
+
+ .My_Account
+    {
+	  width: 400px;
+	  height: 160px;
+	  border: none;
+    }
+
+ .My_Account ul li
+    {
+	 list-style: none;	                   
+	 margin-top: -53px;
+    }
+
+ .My_Account ul li a 
+    {	
+	  font-size:20px;
+	  font-family:cursive;
+	  text-decoration: none;
+	  color:#f68b1e;
+    }
+	
+#Login_Button 
+    { 
+      float : right;
+      margin-top:-174px;
+      margin-right:160px;
+      width:80px;
+	}
+			  
+ #Login_Button:hover 
+    {
+      width: 48px;
+	  transition: all 0.9s ease;
+    }
+ .navigation
+    {
+	  margin-top: -120px;
+	  background-color: #39c639; 
+	  height: 36px;
+    }
+	
+ ul
+   {
+	 list-style:none;
+   }
+
+ .navigation ul li
+    { 
+	  float:left;
+      width: 150px;
+      height: 40px;
+      opacity: .8;
+      line-height:32px;
+      text-align:center;
+      font-size:18px;
+    }
+
+ .navigation ul li a
+    {	
+      font-family: Times;	
+	  text-decoration:none;
+	  color:white;
+	  display:block;
+    }
+
+
+
+ #table1
+    {
+		margin-top: 40px;
+		margin-left:150px;
+		text-align: left;
+		border-collapse: collapse;
+	}
+ #imge
+    {
+		
+		margin-left:520px;
+
+	}

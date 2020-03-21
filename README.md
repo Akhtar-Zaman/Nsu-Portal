@@ -1,1 +1,3 @@
 # Nsu-Portal
+
+I made this project when i was doing CSE 311 ( Database Management System ) course. i tried to follow my university portal system for this project. this is a simple database project where i used " html, css, javascript, php, mysql database ". this project has some interesting features like Login, Singup, students enrolment in particular section, teachers can see information of the students, students can do advising for their courses and it shows the cost of university and course expenses etc..........

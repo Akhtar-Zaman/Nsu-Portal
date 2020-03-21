@@ -1,0 +1,168 @@
+*{
+   margin: 0;
+   padding: 0;
+ }
+
+ html
+ {
+   height:100%;
+ }
+
+ body
+ {
+   height: 100%;
+  
+ }
+		
+ #Main_container
+  {
+    min-height: 100%;
+	padding-bottom: 100px;
+  }
+ .navigation-bar
+    {
+	 
+	  width: 100%;
+	  height: 100px;
+	  background: #19194d;
+    }
+ #logo
+      {
+		  	width: 72px;
+			margin-top: 5px;
+		    margin-left: 40px;
+	    
+      }
+
+	#hh
+	{
+		font-family:Roman;
+		 margin-left: 120px;
+		margin-top: -80px;
+		color:white;
+	}
+	  
+	  	#hh1
+	{
+		font-family:Comic Sans MS;
+		 margin-left: 120px;
+		margin-top: -30px;
+		color:white;
+	}
+	
+		  	#hh2
+	{
+		font-size:17px;
+		font-family:Brush Script MT;
+		 margin-left: 120px;
+		margin-top: -8px;
+		color:white;
+	}
+	
+	
+ .My_Account
+    {
+	  width: 400px;
+	  height: 160px;
+	  border: none;
+    }
+
+ .My_Account ul li
+    {
+	 list-style: none;	                   
+	 margin-top: -53px;
+    }
+
+ .My_Account ul li a 
+    {	
+	  font-size:20px;
+	  font-family:cursive;
+	  text-decoration: none;
+	  color:#1BED1B;
+    }
+	  
+ .navigation
+    {
+	  margin-top: -10px;
+	  background-color: #ffc266; 
+	  height: 36px;
+    }
+	
+	 ul
+   {
+	 list-style:none;
+   }
+
+ .navigation ul li
+                  {
+					 
+	                float:left;
+                    width: 150px;
+                    height: 40px;
+                    opacity: .8;
+                    line-height:32px;
+                    text-align:center;
+                    font-size:18px;
+		
+                  }
+
+ .navigation ul li a
+                    {
+					
+	                  text-decoration:none;
+	                  color:black;
+	                  display:round;
+                    }
+
+
+ .navigation ul li a
+                    {
+					
+	                  text-decoration:none;
+	                  color:black;
+	                  display:round;
+                    }
+
+ .Create_Account
+                {
+	              margin-right: 15px;
+	              width: 400px;
+	              height: 160px;
+	              float: right;
+	              border: none;
+                }
+
+ .Create_Account ul li
+                      {
+						  
+	                    list-style: none;	                   
+	                    margin-top: -53px;
+                      }
+
+ .Create_Account ul li a 
+                        {	
+						font-size:20px;
+						  font-family:cursive;
+	                      text-decoration: none;
+	                      color:#1BED1B;
+                        }
+	#Login_Button 
+    { 
+      float : right;
+      margin-top:-174px;
+      margin-right:160px;
+      width:80px;
+	}
+			  
+ #Login_Button:hover 
+    {
+      width: 48px;
+	  transition: all 0.9s ease;
+    }					
+	 #table
+ {
+	margin-top:-105px;
+	 
+	 
+ }						
+						
